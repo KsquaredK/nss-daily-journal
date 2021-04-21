@@ -1,0 +1,34 @@
+html {}
+
+body {}
+
+header {
+    border: 1px solid red;
+}
+
+main {
+    border: 1px solid green;
+    display: flex;
+    flex-direction: column;
+}
+
+
+}
+aside {
+    border: 1px solid blue;
+}
+.title {}
+.navbar {}
+
+/* .container__left { 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}*/
+.new__entry {}
+.form__style {}
+.journal__entries {}
+.list__entries {}
+.footer {
+    border: 1px solid black;
+}
